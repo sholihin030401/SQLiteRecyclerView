@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite Grocery App</string>
+    <string name="input_text">Input Text</string>
+    <string name="_0">0</string>
+    <string name="tambah">Tambah</string>
+    <string name="_0_item">Item</string>
+</resources>
